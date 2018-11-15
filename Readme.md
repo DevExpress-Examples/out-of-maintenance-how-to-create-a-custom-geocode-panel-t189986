@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/MapControl_CustomGeocodePanel/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapControl_CustomGeocodePanel/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MapControl_CustomGeocodePanel/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MapControl_CustomGeocodePanel/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a custom geocode panel
 
 
